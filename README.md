@@ -7,7 +7,6 @@ My interests are robotics, model based rl, adversarial training, robustness, cog
 🔭 I’m currently working on Automated Ontology Construction.
 
 🌱 I’m currently learning  meta-learning and graph representation learning.
-.
 <!--
 **sefeoglu/sefeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
