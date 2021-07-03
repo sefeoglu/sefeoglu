@@ -2,7 +2,7 @@
 ---
 I am a Data Science master's student at University of Potsdam. Before that, I received my Bachelor's Degree in Computer Engineering from Ege University in 2015.
 I also worked as a software engineer in Istanbul after graduation.
-My interests are robotics, model based rl, adversarial training, robustness, cognitive science, knowledge graphs, and ontology engineering :)
+My interests are robotics, model based rl, adversarial training, robustness, cognitive science, knowledge graphs, and ontology engineering(:green_heart:) :)
 
 🔭 I’m currently working on Automated Ontology Construction.
 
