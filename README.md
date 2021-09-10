@@ -1,6 +1,6 @@
 ### Hi there,  I am Sefika 👋
 ---
-I am a Data Science master's student at the University of Potsdam. Before that, I received my Bachelor's Degree in Computer Engineering from Ege University in 2015.
+I have just graduated from Data Science master program of the University of Potsdam. Before that, I received my Bachelor's Degree in Computer Engineering from Ege University in 2015.
 I also worked as a software engineer in Istanbul after graduation.
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs, and ontology engineering(:green_heart:) :)
 
