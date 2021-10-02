@@ -4,9 +4,9 @@ I have just graduated from Data Science master program of the University of Pots
 I also worked as a software engineer in Istanbul after graduation.
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs, and ontology engineering(:green_heart:) :)
 
-🔭 I’m currently working on Automated Ontology Construction.
+🔭 I’m currently looking for a PhD position.
 
-🌱 I’m currently learning  meta-learning and graph representation learning.
+🌱 I’m currently learning Link Prediction in Knowledge Graphs.
 <!--
 **sefeoglu/sefeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
