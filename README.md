@@ -7,7 +7,7 @@ My interests are robotics, adversarial training, robustness, cognitive science, 
 
 🌱 I’m currently learning Link Prediction in Knowledge Graphs.
 
-🍀 I’m a PhD student in Corporate Semantic Web group at FU Berlin.
+<!-- 🍀 I’m a PhD student in Corporate Semantic Web group at FU Berlin. -->
 <!--
 **sefeoglu/sefeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
