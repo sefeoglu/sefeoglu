@@ -9,4 +9,4 @@ My interests are robotics, adversarial training, robustness, cognitive science, 
 
 🌱 I’m currently learning Link Prediction in Knowledge Graphs.
 
-🤓 My current project is a NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper has been accepted by the SWAT4HCLS 2023.
+🥳 My current project is a NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper has been accepted by the SWAT4HCLS 2023.
