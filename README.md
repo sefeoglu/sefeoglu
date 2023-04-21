@@ -10,5 +10,5 @@ and ontology engineering(:green_heart:) :)
 * My current project is a NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper has been accepted by the SWAT4HCLS 2023.
 
 *  🎉 A book chapter about Hybrid AI for Healthcare will be online soon!
-* 
+
 🌱 I have been working on relation extraction for streaming data (corpus).
