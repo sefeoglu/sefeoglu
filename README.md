@@ -11,4 +11,4 @@ and ontology engineering(:green_heart:) :)
 
 *  🎉 A book chapter about Hybrid AI for Healthcare will be online soon!
 
-🌱 I have been working on relation extraction for streaming data (corpus).
+🌱 I have been working on relation extraction for streaming (corpus) data.
