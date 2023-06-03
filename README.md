@@ -7,10 +7,9 @@ and ontology engineering(:green_heart:) :)
 
 * An ontology matching part of my master thesis (GraphMatcher) has obtained the highest F1-measure in uncertain reference alignments of the OAEI-2022 conference track among all experts. My tool will be at the competition in 2023 🤓 
 
-* My current project is a NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper has been accepted by the SWAT4HCLS 2023.
-This paper and work will be a journal paper soon!, so the metarials and pipelines will be open source!
+* My NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper was presented  at SWAT4HCLS in Frebruary 2023 in Basel,
 
 *  🎉 A book chapter about Hybrid AI for Healthcare will be online soon!
-*  NEWS! I am attending ISWS 2023 and received a grant with an acceptance from the organization.
+*  NEWS! I am attending ISWS 2023, takes place in Italy, and received a grant with an acceptance from the organization.
 
 🌱 I have been working on relation extraction for streaming (corpus) data.
