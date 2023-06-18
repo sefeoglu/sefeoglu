@@ -10,6 +10,5 @@ and ontology engineering(:green_heart:) :)
 * My NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper was presented  at SWAT4HCLS in Frebruary 2023 in Basel,
 
 *  🎉 A book chapter about Hybrid AI for Healthcare will be online soon!
-*  NEWS! I am attending ISWS 2023, takes place in Italy, and received a grant with an acceptance from the organization.
 
 🌱 I have been working on relation extraction for streaming (corpus) data.
