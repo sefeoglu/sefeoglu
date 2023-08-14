@@ -13,5 +13,8 @@ and ontology engineering(:green_heart:) :)
 
 🌱 I have been working on relation extraction for streaming (corpus) data.
 
+*  🎉 My team "Gryffindor" was awarded with the Best Scientific Research Report at the ISWS 2023, and we submitted our [paper](https://openreview.net/forum?id=a1NBH3exoH) to the Wikidata Workshop under the ISWC 2023.
 
 * My last project is [dcat_ap converter](https://github.com/sefeoglu/dcat_ap-converter) to save the data in dcat_ap format.
+  
+🌱 I am currently working on construction biocatalysts ontology, especially enzyme 🤓
