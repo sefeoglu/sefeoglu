@@ -1,7 +1,7 @@
 ### Hi there, I am Şefika 👋
 ---
 
-I have started to work as a research asistant under the open distributed systems research group at the TU Berlin. I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under Corporate Semantic Web Group of Freie Universitaet Berlin. Before that, I received my Bachelor's Degree in Computer Engineering from Ege University in 2015.
+I have started to work as a research asistant under the open distributed systems research group at the TU Berlin. I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under Corporate Semantic Web Group of Freie Universitaet Berlin.
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs,
 and ontology engineering(:green_heart:) :)
 
@@ -15,6 +15,6 @@ and ontology engineering(:green_heart:) :)
 
 *  🎉 My team "Gryffindor" was awarded with the Best Scientific Research Report at the ISWS 2023, and we submitted our [paper](https://openreview.net/forum?id=a1NBH3exoH) to the Wikidata Workshop under the ISWC 2023.
 
-* My last project is [dcat_ap converter](https://github.com/sefeoglu/dcat_ap-converter) to save the data in dcat_ap format.
+* My last project is [dcat converter](https://github.com/sefeoglu/dcat_ap-converter) to save the data in dcat_ap format.
   
 🌱 I am currently working on construction biocatalysts ontology, especially enzyme 🤓
