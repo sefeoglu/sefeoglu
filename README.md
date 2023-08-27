@@ -18,3 +18,5 @@ and ontology engineering(:green_heart:) :)
 * My last project is [dcat converter](https://github.com/sefeoglu/dcat_ap-converter) to save the data in dcat_ap format.
   
 🌱 I am currently working on construction biocatalysts ontology, especially enzyme 🤓
+
+Note: Please pointing out the repositories in case you would like to use any piece of my code lines even! Thanks🙂
