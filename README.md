@@ -20,3 +20,6 @@ and ontology engineering(:green_heart:) :)
 🌱 I am currently working on construction biocatalysts ontology, especially enzyme 🤓
 
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
+
+## My GitHub stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=sefeoglu&theme=dark)](https://git.io/streak-stats)
