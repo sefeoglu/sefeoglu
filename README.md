@@ -7,16 +7,14 @@ and ontology engineering(:green_heart:) :)
 
 * An ontology matching part of my master thesis (GraphMatcher) has obtained the highest F1-measure in uncertain reference alignments of the OAEI-2022 conference track among all experts. My tool will be at the competition in 2023 🤓 
 
-* My NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper was presented  at SWAT4HCLS in Frebruary 2023 in Basel,
+* My NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper was presented  at SWAT4HCLS in Frebruary 2023 in Basel.
 
 *  🎉 A book chapter about Hybrid AI for Healthcare will be online soon!
 
+*  🎉 My team "Gryffindor" was awarded with the Best Scientific Research Report at the ISWS 2023, and our [paper](https://openreview.net/pdf?id=a1NBH3exoH) was accepted by the Wikidata Workshop under the ISWC 2023. We are still working on its further version.
+
+
 🌱 I have been working on relation extraction for streaming (corpus) data.
-
-*  🎉 My team "Gryffindor" was awarded with the Best Scientific Research Report at the ISWS 2023, and we submitted our [paper](https://openreview.net/forum?id=a1NBH3exoH) to the Wikidata Workshop under the ISWC 2023.
-
-* My last project is [dcat converter](https://github.com/sefeoglu/dcat_ap-converter) to save the data in dcat_ap format.
-  
 🌱 I am currently working on construction biocatalysts ontology, especially enzyme 🤓
 
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
