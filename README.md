@@ -1,7 +1,7 @@
 ### Hi there, I am Şefika 👋
 ---
 
-I have started to work as a research asistant under the open distributed systems research group at the TU Berlin. I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under Corporate Semantic Web Group of Freie Universitaet Berlin.
+I have started to work as a research asistant under the Open Distributed Systems (ODS) research group at the TU Berlin. I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under the Corporate Semantic Web Group of Freie Universitaet Berlin.
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs,
 and ontology engineering(:green_heart:) :)
 
