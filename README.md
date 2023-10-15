@@ -13,6 +13,7 @@ and ontology engineering(:green_heart:) :)
 
 *  🎉 My team "Gryffindor" was awarded with the Best Scientific Research Report at the ISWS 2023, and our [paper](https://openreview.net/pdf?id=a1NBH3exoH) was accepted by the Wikidata Workshop under the ISWC 2023. We are still working on its further version.
 
+:woman_teacher: Data Science Class [Notebooks](https://github.com/sefeoglu/DataScienceClassNotes)
 
 🌱 I have been working on relation extraction for streaming (corpus) data.
 
