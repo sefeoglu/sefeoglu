@@ -3,7 +3,7 @@
 
 I have started to work as a research scientist under the Open Distributed Systems (ODS) research group at the TU Berlin. I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under the Corporate Semantic Web Group of Freie Universitaet Berlin.
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs,
-and ontology engineering(:green_heart:) :)
+and ontology engineering (💚)
 
 * An ontology matching part of my master thesis (GraphMatcher) has obtained the highest F1-measure in uncertain reference alignments of the OAEI-2022 conference track among all experts. My tool will be at the competition in 2023 🤓 
 
