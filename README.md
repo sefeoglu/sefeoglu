@@ -5,7 +5,7 @@ I have started to work as a research scientist under the Open Distributed System
 My interests are robotics, adversarial training, robustness, cognitive science, knowledge graphs,
 and ontology engineering (💚)
 
-* An ontology matching part of my master thesis (GraphMatcher) has obtained the highest F1-measure in uncertain reference alignments of the OAEI-2022 conference track among all experts. My tool will be at the competition in 2023 🤓 
+* An ontology matching part of my master thesis (GraphMatcher) has obtained the highest F1-measure in uncertain reference alignments of the OAEI-2022 conference track among all experts. My tool produced the results with the highest F1-score again at the competition in 2023 🤓 
 
 * My NER model for [corona news](https://github.com/sefeoglu/coronanews-ner). Its paper was presented  at SWAT4HCLS in Frebruary 2023 in Basel.
 
