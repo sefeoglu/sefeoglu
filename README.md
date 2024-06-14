@@ -18,7 +18,7 @@ and ontology engineering (💚)
 🌱 I have been working on relation extraction for streaming (corpus) data.
 
 🌱 I submitted a journal paper "Retrieval-Augmented Generation-based Relation Extraction" to Semantic Web Journal in March 2024. It is [here](https://arxiv.org/abs/2404.13397)
-
+Please use updates brach of RAG4RE, since I could not do any update into the master branch.
 
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
 
