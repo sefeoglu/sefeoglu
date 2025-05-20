@@ -9,7 +9,7 @@ and ontology engineering (💚)
 *  🎉 A book chapter about Hybrid AI for Healthcare is online now!
 
 
-🌱 I submitted a journal paper "Retrieval-Augmented Generation-based Relation Extraction" to Semantic Web Journal in March 2024. Its revised version is [here](https://www.semantic-web-journal.net/system/files/swj3810.pdf)
+🌱 I submitted a journal paper "Retrieval-Augmented Generation-based Relation Extraction" to Semantic Web Journal in March 2024. Its revised version is [here](https://www.semantic-web-journal.net/system/files/swj3810.pdf) Its next version is accepted by XLLM workshop @ACL 2025.
 
 
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
