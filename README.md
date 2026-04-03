@@ -1,8 +1,8 @@
 ### Hi there, I am Şefika 👋
 ---
 
-I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under the Corporate Semantic Web Group of Freie Universitaet Berlin.
-My interests are continual learning,  adversarial training, robustness, cognitive science, knowledge graphs,
+I completed my Bachelor’s degree in Computer Engineering at Ege University in İzmir, with a focus on the Semantic Web, under the supervision and academic guidance of Prof. Murat Osman Ünalır. Then, I graduated from Data Science master program of the University of Potsdam and have started to pursue PhD under the Corporate Semantic Web Group of Freie Universitaet Berlin.
+My interests are continual learning, adversarial training, robustness, cognitive science, knowledge graphs,
 and ontology engineering (💚)
 
 
