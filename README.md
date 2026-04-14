@@ -13,7 +13,7 @@ and ontology engineering (💚)
 🌱 I submitted a journal paper "Retrieval-Augmented Generation-based Relation Extraction" to Semantic Web Journal in March 2024. It is [SWJ](https://journals.sagepub.com/doi/full/10.1177/22104968251385519). It is just accepted to Semantic Web journal 🎉  Its next version is accepted by XLLM workshop @ACL 2025.
 
 
-🌱 Another journal paper "Large Language Models for Continual Relation Extraction" is just accepted by IEEE Access Journal.
+🌱 Another journal paper "Large Language Models for Continual Relation Extraction" is just accepted by [IEEE Access](https://ieeexplore.ieee.org/document/11478401/) Journal.
 
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
 
