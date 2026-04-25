@@ -15,5 +15,7 @@ and ontology engineering (💚)
 
 🌱 Another journal paper "Large Language Models for Continual Relation Extraction" is just accepted by [IEEE Access](https://ieeexplore.ieee.org/document/11478401/) Journal.
 
+🌱 A new journal article "SHACL-Based Symbolic Memory for Continual Relation Extraction" is submitted to Journal of Web Semantics for a special issue on Knowledge Engineering Automation. Here is [repository](https://github.com/sefeoglu/CFKG-update/tree/jws)
+
 Note: Please pointing out the repositories in case you would like to use any piece of my code lines! Thanks🙂
 
