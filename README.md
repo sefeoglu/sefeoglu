@@ -20,5 +20,8 @@ and ontology engineering (💚)
 
 🗞️ A new journal article, "SHACL-Based Symbolic Memory for Continual Relation Extraction," has been submitted to the Journal of Web Semantics for a special issue on Knowledge Engineering Automation. Here is [repository](https://github.com/sefeoglu/CFKG-update/tree/jws)
 
+[New Project](https://github.com/sefeoglu/eu-ai-act-ontology/tree/v0.2)-> Memory-based MCP for local to global KG generation with AI agents: 
+
+
 Note: Please point out the repositories in case you would like to use any of my code lines! Thanks🙂
 
