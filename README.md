@@ -1,27 +1,44 @@
-### Hi there, I am Şefika 👋
+# Hi there, I am Şefika 👋
+
 ---
 
-I completed my Bachelor’s degree in Computer Engineering at Ege University in İzmir, with a focus on the Semantic Web, under the supervision of Prof. Murat Osman Ünalır. Then, I graduated from the Data Science master's program at the University of Potsdam and have started pursuing a PhD in the Corporate Semantic Web Group at Freie Universität Berlin.
+## 👩‍🔬 About Me
 
-I am a research scientist at the Text Mining Research group of the Senckenberg Data Analysis and Modeling Center. I am working on generating a knowledge graph (a taxonomy and a multimodal KG) from type-specimen catalogs and historical entomological texts.
+I completed my **Bachelor's degree in Computer Engineering** at Ege University in İzmir, with a focus on the Semantic Web, under the supervision of Prof. Murat Osman Ünalır. I then earned my **PhD** with a focus on continual learning and knowledge graphs.
 
-My interests are continual learning, adversarial training, robustness, cognitive science, knowledge graphs,
-and ontology engineering (💚)
+I am a **Research Scientist** at the [Text Mining Research group](https://www.senckenberg.de/) of the **Senckenberg Data Analysis and Modeling Center**, where I work on generating knowledge graphs — including taxonomies and multimodal KGs — from scientific literature.
 
+---
 
-*  🎉 A book chapter about Hybrid AI for Healthcare is online now!
-  
+## 🔬 Research Interests
 
+- 🧠 Continual Learning & Adversarial Training
+- 🛡️ Robustness in Machine Learning
+- 🧩 Cognitive Science
+- 🕸️ Knowledge Graphs
+- 💚 Ontology Engineering
 
-🩷 I submitted a journal paper, "Retrieval-Augmented Generation-based Relation Extraction," to the Semantic Web Journal in March 2024. It is [SWJ](https://journals.sagepub.com/doi/full/10.1177/22104968251385519). It is just accepted to the Semantic Web journal 🎉 Its next version is accepted by the XLLM workshop @ACL 2025.
+---
 
+## 📢 News & Publications
 
-📰 Another journal paper, "Large Language Models for Continual Relation Extraction," has just been accepted by the [IEEE Access](https://ieeexplore.ieee.org/document/11478401/) Journal.
+- 🎉 **Book Chapter** — *Hybrid AI for Healthcare* is online!
 
-🗞️ A new journal article, "SHACL-Based Symbolic Memory for Continual Relation Extraction," has been submitted to the Journal of Web Semantics for a special issue on Knowledge Engineering Automation. Here is [repository](https://github.com/sefeoglu/CFKG-update/tree/jws)
+- 🩷 **Journal Paper** — *"Retrieval-Augmented Generation-based Relation Extraction"* submitted to the [Semantic Web Journal](https://journals.sagepub.com/doi/full/10.1177/2) (March 2024).
 
-[New Project](https://github.com/sefeoglu/eu-ai-act-ontology/tree/v0.2)-> Memory-based MCP for local to global KG generation with AI agents: 
+- 📰 **Journal Paper** — *"Large Language Models for Continual Relation Extraction"* accepted by [IEEE Access](https://ieeexplore.ieee.org/document/11478401/).
 
+- 🗞️ **Journal Article** — *"SHACL-Based Symbolic Memory for Continual Relation Extraction"* submitted to the **Journal of Web Semantics** (Special Issue on Knowledge Engineering Automation).
 
-Note: Please point out the repositories in case you would like to use any of my code lines! Thanks🙂
+---
 
+## 🚀 Featured Project
+
+**[Memory-based MCP for Local-to-Global KG Generation with AI Agents](https://github.com/sefeoglu/eu-ai-act-ontology/tree/v0.2)**  
+An ontology and agent-based approach for scalable knowledge graph construction.
+
+---
+
+## 📌 Note
+
+If you use any of my code, please cite or reference the relevant repository. Thanks! 🙂
