@@ -6,7 +6,7 @@
 
 I completed my **Bachelor's degree in Computer Engineering** at Ege University in İzmir, with a focus on the Semantic Web, under the supervision of Prof. Murat Osman Ünalır. I then earned my **PhD** with a focus on continual learning and knowledge graphs.
 
-I am a **Research Scientist** at the [Text Mining Research group](https://www.senckenberg.de/) of the **Senckenberg Data Analysis and Modeling Center**, where I work on generating knowledge graphs — including taxonomies and multimodal KGs — from scientific literature.
+I am a **Research Scientist** at the [Text Mining Research group](https://www.senckenberg.de/en/collection/sdmc/) of the **Senckenberg Data Analysis and Modeling Center**, where I work on generating knowledge graphs — including taxonomies and multimodal KGs — from scientific literature.
 
 ---
 
