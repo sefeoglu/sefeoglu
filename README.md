@@ -2,7 +2,7 @@
 
 ---
 
-## 👩‍🔬 About Me
+## About Me
 
 I completed my **Bachelor's degree in Computer Engineering** at Ege University in İzmir, with a focus on the Semantic Web, under the supervision of Prof. Murat Osman Ünalır. I then earned my **PhD** with a focus on continual learning and knowledge graphs.
 
