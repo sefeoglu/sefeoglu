@@ -8,6 +8,8 @@ I completed my **Bachelor's degree in Computer Engineering** at Ege University i
 
 I am a **Research Scientist** at the [Text Mining Research group](https://www.senckenberg.de/en/collection/sdmc/) of the **Senckenberg Data Analysis and Modeling Center**, where I work on generating knowledge graphs — including taxonomies and multimodal KGs — from historical scientific literature.
 
+
+Blog: https://sefeoglu.github.io/
 ---
 
 ## 🔬 Research Interests
