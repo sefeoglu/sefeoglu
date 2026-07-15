@@ -26,9 +26,9 @@ Blog: https://sefeoglu.github.io/
 
 - 🎉 **Book Chapter** — *Hybrid AI for Healthcare* is online!
 
-- 🩷 **Journal Paper** — *"Retrieval-Augmented Generation-based Relation Extraction"* submitted to the [Semantic Web Journal](https://journals.sagepub.com/doi/full/10.1177/2) (March 2024).
+- 🩷 **Journal Paper** — *"Retrieval-Augmented Generation-based Relation Extraction"* [Semantic Web Journal](https://journals.sagepub.com/doi/full/10.1177/2)
 
-- 📰 **Journal Paper** — *"Large Language Models for Continual Relation Extraction"* accepted by [IEEE Access](https://ieeexplore.ieee.org/document/11478401/).
+- 📰 **Journal Paper** — *"Large Language Models for Continual Relation Extraction"* [IEEE Access](https://ieeexplore.ieee.org/document/11478401/).
 
 - 🗞️ **Journal Article** — *"SHACL-Based Symbolic Memory for Continual Relation Extraction"* submitted to the **Journal of Web Semantics** (Special Issue on Knowledge Engineering Automation).
 
