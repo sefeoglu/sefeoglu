@@ -30,7 +30,7 @@ Blog: https://sefeoglu.github.io/
 
 - 📰 **Journal Paper** — *"Large Language Models for Continual Relation Extraction"* [IEEE Access](https://ieeexplore.ieee.org/document/11478401/).
 
-- 🗞️ **Journal Article** — *"SHACL-Based Symbolic Memory for Continual Relation Extraction"* submitted to the **Journal of Web Semantics** (Special Issue on Knowledge Engineering Automation).
+- 🗞️ **Journal Article** — *"SHACL-Based Symbolic Memory for Continual Relation Extraction"* submitted to the **Journal of Web Semantics** (Special Issue on Knowledge Engineering Automation) (revision).
 
 ---
 
