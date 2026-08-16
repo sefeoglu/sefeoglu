@@ -4,7 +4,7 @@
 
 ## About Me
 
-I completed my **Bachelor's degree in Computer Engineering** at Ege University in İzmir, with a focus on the Semantic Web, under the supervision of Prof. Murat Osman Ünalır. I have a master's degree in Data Science from Universität Potsdam. I have then been pursuing my **PhD** with a focus on continual learning and relation extraction for knowledge graph completeness.
+I completed my **Bachelor's degree in Computer Engineering** at Ege University in İzmir, with a focus on the Semantic Web. I have a master's degree in Data Science from Universität Potsdam. I have then been pursuing my **PhD** with a focus on continual learning and relation extraction for knowledge graph completeness.
 
 I am a **Research Scientist** at the [Semantic Data Systems and Knowledge Engineering Group](https://www.senckenberg.de/en/collection/sdmc/) of the **Senckenberg Data Analysis and Modeling Center**, where I work on generating knowledge graphs — including taxonomies and multimodal KGs — from historical scientific literature.
 
