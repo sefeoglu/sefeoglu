@@ -24,6 +24,8 @@ Blog: https://sefeoglu.github.io/
 
 ## 📢 News & Publications
 
+- Public Service- Systematic literature review of the PhD thesis: https://github.com/sefeoglu/CRE4KGC_papers
+
 - 🎉 **Book Chapter** — *Hybrid AI for Healthcare* is online!
 
 - 🩷 **Journal Paper** — *"Retrieval-Augmented Generation-based Relation Extraction"* [Semantic Web Journal](https://journals.sagepub.com/doi/full/10.1177/2) . It was selected as one of three impactful Semantic Web journal articles from the past three years for an invited presentation at the ISWC 2026 main conference.
@@ -37,7 +39,7 @@ Blog: https://sefeoglu.github.io/
 ## 🚀 Featured Project
 
 **[Memory-based MCP for Local-to-Global KG Generation with AI Agents](https://github.com/sefeoglu/eu-ai-act-ontology/tree/v0.2)**  
-An ontology and agent-based approach for scalable knowledge graph construction.
+An ontology- and agent-based approach for scalable knowledge graph construction.
 
 ---
 
