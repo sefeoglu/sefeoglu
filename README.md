@@ -41,6 +41,9 @@ Blog: https://sefeoglu.github.io/
 **[Memory-based MCP for Local-to-Global KG Generation with AI Agents](https://github.com/sefeoglu/eu-ai-act-ontology/tree/v0.2)**  
 An ontology- and agent-based approach for scalable knowledge graph construction.
 
+**[CREvaluator Library for Continual Learning Metrics](https://github.com/sefeoglu/cre-evaluation-toolkit/tree/master)**
+A library to compute the metrics for continual learning approaches.
+
 ---
 
 ## 📌 Note
