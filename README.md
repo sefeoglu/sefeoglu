@@ -42,6 +42,7 @@ Blog: https://sefeoglu.github.io/
 An ontology- and agent-based approach for scalable knowledge graph construction.
 
 **[CREvaluator Library for Continual Learning Metrics](https://github.com/sefeoglu/cre-evaluation-toolkit/tree/master)**
+
 A library to compute the metrics for continual learning approaches.
 
 ---
